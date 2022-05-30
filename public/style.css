@@ -16,8 +16,8 @@ background-image:
 radial-gradient(at 40% 91%, hsla(347,93%,77%,1) 0px, transparent 50%),
 radial-gradient(at 71% 2%, hsla(353,62%,79%,1) 0px, transparent 50%),
 radial-gradient(at 85% 6%, hsla(60,65%,71%,1) 0px, transparent 50%),
-radial-gradient(at 5% 39%, hsla(187,73%,78%,1) 0px, transparent 50%),
-radial-gradient(at 70% 21%, hsla(165,69%,63%,1) 0px, transparent 50%),
+radial-gradient(at 5% 39%, rgb(252, 181, 208) 0px, transparent 50%),
+radial-gradient(at 70% 21%, rgb(233, 179, 117) 0px, transparent 50%),
 radial-gradient(at 89% 79%, hsla(298,65%,79%,1) 0px, transparent 50%),
 radial-gradient(at 4% 56%, hsla(50,60%,69%,1) 0px, transparent 50%);
 }
