@@ -2,7 +2,7 @@
 
 In this full stack application complete with login authentification, users can create an account, login and and access a community board where they can post messages praising others in the community. They can show more support for each message by clicking the heart - numbers will go up. They can favorite a message and it will turn purple to mark it. Messages can be deleted via the trashcan as well.
 
-![lift](https://user-images.githubusercontent.com/102037717/171062586-222a3f7f-6756-444b-b284-653789878ab7.gif)
+![lift](https://user-images.githubusercontent.com/102037717/172751676-0468b404-f071-4524-9b0c-27f40727142b.gif)
 
 **Tech used:** HTML, CSS, JavaScript, Node.js, Express, MongoDB
 
